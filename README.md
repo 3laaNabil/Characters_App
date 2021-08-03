@@ -1,7 +1,6 @@
 # ch_app
 
-A new Flutter project.
-
+Characters App  by Flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
